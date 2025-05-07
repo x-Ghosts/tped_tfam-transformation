@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you're using this script, you can email me if there is a problem - tnewnis2@gmail.com"
+authors:
+  - family-names: EL IDRISSI
+    given-names: Adam
+    orcid: None
+title: "Script of data transformation from txt genotyping data to PED/MAP via R"
+version: 1.0
+identifiers:
+  - type: doi
+    value: None
+date-released: 2025-05-07
